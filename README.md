@@ -86,7 +86,8 @@ s.send("acknowledgement recived from the server".encode())
 
 ## OUTPUT:
 ## CLIENT:
-![image](https://github.com/user-attachments/assets/b48546e3-8e8f-48ef-af9a-0fad6c0f3583)
+![image](https://github.com/user-attachments/assets/1490ac7c-5876-460f-9101-ff2eeeda76b3)
+
 
 ## SERVER:
 ![image](https://github.com/user-attachments/assets/40d2db39-3480-4030-9d9e-7fc011c4dca5)
